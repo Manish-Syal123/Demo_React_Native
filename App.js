@@ -6,7 +6,7 @@ import FlatListDemo from "./src/screens/FlatListDemo";
 export default function App() {
   return (
     <View>
-      <Text>Hello World</Text>
+      {/* <Text>Hello World</Text> */}
       <FlatListDemo />
     </View>
   );
