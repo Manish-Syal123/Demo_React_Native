@@ -52,7 +52,7 @@ const FlatListDemo = () => {
 const styles = StyleSheet.create({
   textStyle: {
     fontSize: 20,
-    padding: 30,
+    padding: 20,
     backgroundColor: "blue",
     margin: 20,
     color: "white",
@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
   listStyle: {
     textAlign: "center",
     margin: 20,
-    padding: 10,
+    padding: 20,
   },
 });
 export default FlatListDemo;
